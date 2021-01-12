@@ -95,7 +95,7 @@ export default function Home() {
               <Textarea
                 value={value}
                 onChange={handleInputChange}
-                placeholder="Please enter your question"
+                placeholder="Enter your question"
                 size="sm"
                 p={3}
                 height="250px"
