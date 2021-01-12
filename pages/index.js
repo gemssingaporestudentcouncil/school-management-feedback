@@ -74,7 +74,7 @@ export default function Home() {
             </Heading>
             <Text pt="10px">
               The school is currently going through a critical transition period
-              with the ownership change. We've know that many of you, the
+              with the ownership change. We know that many of you, the
               students, have questions about this change and wanted to give you
               the chance to comfortably raise those questions.
             </Text>
