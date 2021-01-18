@@ -105,7 +105,7 @@ export default function Home() {
                 <Button
                   pt={1}
                   mt={3}
-                  width="360px"
+                  width="300px"
                   onClick={handleSubmit}
                   disabled
                   isLoading={submitted != "loading" ? false : true}
