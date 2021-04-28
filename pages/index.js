@@ -105,11 +105,12 @@ export default function Home() {
                 <Button
                   pt={1}
                   mt={3}
-                  width="180px"
+                  width="300px"
                   onClick={handleSubmit}
+                  disabled
                   isLoading={submitted != "loading" ? false : true}
                 >
-                  {submitted == "submitted" ? "Sent 🚀" : "Share your question"}
+                  {submitted == "submitted" ? "Sent 🚀" : "Submissions have closed, sorry."}
                 </Button>
                 <Text
                   mt="22px"
